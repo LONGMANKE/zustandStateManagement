@@ -5,8 +5,8 @@ ul {
 .main-container {
   padding: 2rem;
   height: 100vh;
-  background-color: #1e1e1e;
-  color: #fff;
+  background-color: #ffffff;
+  /* color: #fff; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
